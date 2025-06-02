@@ -1,0 +1,110 @@
+{
+  "generated_at": "2025-06-02T23:11:17.9119855+05:30",
+  "ai_tools": [
+    {
+      "title": "New ChatGPT Plugin Revolutionizes Code Reviews",
+      "link": "https://example.com/chatgpt-plugin",
+      "source": "Test Source",
+      "summary": "Revolutionary AI tool helps developers streamline code review processes with intelligent suggestions.",
+      "category": "tool",
+      "scraped_at": "2025-06-02T23:11:17.5829253+05:30",
+      "is_ai_tool": true
+    },
+    {
+      "title": "Microsoft Copilot Gets Major Update with New AI Features",
+      "link": "https://example.com/copilot-update",
+      "source": "Test Source",
+      "summary": "Enhanced productivity features and improved AI assistance across Microsoft Office suite.",
+      "category": "tool",
+      "scraped_at": "2025-06-02T23:11:17.5829253+05:30",
+      "is_ai_tool": true
+    }
+  ],
+  "research": [
+    {
+      "title": "Google DeepMind Announces Breakthrough in AI Reasoning",
+      "link": "https://example.com/deepmind-research",
+      "source": "Test Source",
+      "summary": "Latest research shows significant improvements in AI logical reasoning capabilities.",
+      "category": "research",
+      "scraped_at": "2025-06-02T23:11:17.5829253+05:30",
+      "is_ai_tool": false
+    },
+    {
+      "title": "Open Source LLM Achieves GPT-4 Level Performance",
+      "link": "https://example.com/open-llm",
+      "source": "Test Source",
+      "summary": "Community-driven AI model matches commercial alternatives in benchmark tests.",
+      "category": "research",
+      "scraped_at": "2025-06-02T23:11:17.5829253+05:30",
+      "is_ai_tool": false
+    }
+  ],
+  "funding": [
+    {
+      "title": "AI Startup Raises $50M Series A for Enterprise Automation",
+      "link": "https://example.com/ai-funding",
+      "source": "Test Source",
+      "summary": "Promising AI company secures major funding for business process automation tools.",
+      "category": "funding",
+      "scraped_at": "2025-06-02T23:11:17.5829253+05:30",
+      "is_ai_tool": false
+    }
+  ],
+  "general": [
+    {
+      "title": "The Visual World of 'Samurai Jack'",
+      "link": "https://animationobsessive.substack.com/p/the-visual-world-of-samurai-jack",
+      "source": "Hacker News",
+      "summary": "Latest development in artificial intelligence and machine learning.",
+      "category": "general",
+      "scraped_at": "2025-06-02T23:11:17.9107282+05:30",
+      "is_ai_tool": false
+    },
+    {
+      "title": "Cloudlflare builds OAuth with Claude and publishes all the prompts",
+      "link": "https://github.com/cloudflare/workers-oauth-provider/commits/main/",
+      "source": "Hacker News",
+      "summary": "Latest development in artificial intelligence and machine learning.",
+      "category": "general",
+      "scraped_at": "2025-06-02T23:11:17.9113526+05:30",
+      "is_ai_tool": false
+    },
+    {
+      "title": "I made a chair",
+      "link": "https://milofultz.com/2025-05-27-i-made-a-chair.html",
+      "source": "Hacker News",
+      "summary": "Latest development in artificial intelligence and machine learning.",
+      "category": "general",
+      "scraped_at": "2025-06-02T23:11:17.9113526+05:30",
+      "is_ai_tool": false
+    },
+    {
+      "title": "The Atomic Airplane",
+      "link": "https://whatisnuclear.com/the-story-of-the-atomic-airplane.html",
+      "source": "Hacker News",
+      "summary": "Latest development in artificial intelligence and machine learning.",
+      "category": "general",
+      "scraped_at": "2025-06-02T23:11:17.9113526+05:30",
+      "is_ai_tool": false
+    }
+  ],
+  "total_count": 9,
+  "debug_info": [
+    "[23:11:17] 🚀 Starting AI News Scraping...",
+    "[23:11:17] Creating test AI news data...",
+    "[23:11:17] Starting Hacker News scraping...",
+    "[23:11:17] Generated 5 test AI news articles",
+    "[23:11:17] ✅ Got response from Hacker News (Status: 200)",
+    "[23:11:17] Story 1: Show HN: A toy version of Wireshark (student project)",
+    "[23:11:17] Story 2: Ask HN: Who is hiring? (June 2025)",
+    "[23:11:17] Story 3: Show HN: Penny-1.7B Irish Penny Journal style transfer",
+    "[23:11:17] Story 4: Show HN: Kan.bn – An open-source alterative to Trello",
+    "[23:11:17] Story 5: Mesh Edge Construction",
+    "[23:11:17] 🎯 Found AI story: The Visual World of 'Samurai Jack'",
+    "[23:11:17] 🎯 Found AI story: Cloudlflare builds OAuth with Claude and publishes all the prompts",
+    "[23:11:17] 🎯 Found AI story: I made a chair",
+    "[23:11:17] 🎯 Found AI story: The Atomic Airplane",
+    "[23:11:17] Checked 30 stories, found 4 AI-related"
+  ]
+}

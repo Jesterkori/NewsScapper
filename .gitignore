@@ -1,0 +1,14 @@
+# Go build files
+*.exe
+*.out
+
+# Dependency directories
+vendor/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.vscode/
+.idea/
